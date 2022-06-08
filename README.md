@@ -3,10 +3,10 @@
 
 # Установка/Запуск
 К выполнению перед запуском:
-    gem install colorize && gem install goto
+    `gem install colorize && gem install goto`
 
 Запуск:
-    ruby script2.rb
+    `ruby script2.rb`
 
 # ВНИМАНИЕ
 Адекватно воспринимаю критику.
