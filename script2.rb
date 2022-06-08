@@ -25,6 +25,7 @@ a = gets.chomp
 puts "Значение 'B': "
 b = gets.chomp
 label(:start) do
+  # Художественный фильм украли)
   system('clear') || system('cls')
   puts "10101010101010101010101010
 10101010101010101010101010
@@ -77,7 +78,7 @@ cccccccccccccccccccccccccc
   puts "20. Кубический корень из 'A'"
   puts "21. Кубический корень из 'B'"
   puts "22. 'A'^'B'"
-  puts '23. Вывести на экран величину π'
+  puts '23. Получить величину π'
   puts '24. Ввод новых значений'.blue
   puts 'Ввод: '.yellow
   entr = gets.chomp
